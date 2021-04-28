@@ -1,0 +1,126 @@
+*{
+    margin: 0px;
+}
+
+.green{
+    width: 500px;
+    height: 300px;
+    background-color: green;
+    margin: 20px auto 40px;
+    overflow:hidden;
+}
+.red{
+    width: 250px;
+    height: 250px;
+    background-color: red;
+    border-radius: 50%;
+    margin: 25px auto;
+}
+
+.white{
+    width: 500px;
+    height: 300px;
+    background-color: white;
+    margin: 20px auto 40px;
+    overflow:hidden;
+    border: 1px solid black;
+}
+
+.germany{
+    width: 500px;
+    height: 100px;
+    background-color: red;
+    margin: 20px auto 40px;
+    border-top: 100px solid black;
+    border-bottom: 100px solid yellow;
+
+}
+
+.belgium{
+    margin: 20px auto 40px;
+    width:166.67px;
+    height: 300px;
+    background-color: yellow;
+    border-right: 166.67px solid red ;
+    border-left: 166.67px solid black ;
+
+}
+
+.france{
+    margin: 20px auto 40px;
+    width:166.67px;
+    height: 300px;
+    background-color: white;
+    border: 1px solid black;
+    border-right: 166.67px solid red ;
+    border-left: 166.67px solid blue ;
+    
+}
+
+.italy{
+    margin: 20px auto 40px;
+    width:166.67px;
+    height: 300px;
+    background-color: white;
+    border: 1px solid black;
+    border-right: 166.67px solid red ;
+    border-left: 166.67px solid green ;
+    
+}
+
+.spain{
+    margin: 20px auto 40px;
+    width: 675px;
+    height: 250px;
+    background-color: #FFC400;
+    overflow: hidden;
+    border-top: 100px solid red;
+    border-bottom: 100px solid red;
+}
+
+.spain img{
+    height: 183px;
+    margin: 30px 85px;
+
+}
+
+.ned{
+    width: 500px;
+    height: 100px;
+    background-color: white;
+    margin: 20px auto 40px;
+    border: 1px solid black;
+    border-top: 100px solid #A91B27;
+    border-bottom: 100px solid #204487;
+    
+   
+}
+
+.russia{
+    margin: 20px auto 0px;
+    width: 500px;
+    height: 100px;
+    background-color: white;
+    
+    border: 1px solid black;
+    
+    border-bottom: 100px solid blue;
+    
+}
+.russia2{
+    margin: 0px auto 40px;
+    width: 500px;
+    height: 100px;
+    background-color: red;
+    border: 1px solid black;
+}
+
+.austria{
+    width: 500px;
+    height: 100px;
+    background-color: white;
+    margin: 20px auto 40px;
+    border: 1px solid black;
+    border-top: 100px solid red;
+    border-bottom: 100px solid red;
+}
