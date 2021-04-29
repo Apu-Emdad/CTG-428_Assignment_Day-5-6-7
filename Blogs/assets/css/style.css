@@ -55,5 +55,22 @@ body{
 .blog article p{
     font-family: candara;
     text-align: justify;
+    
 }
+
+.blog article blockquote{
+    color:white;
+}
+
+.blog article blockquote{
+    margin: 10px 50px;
+    margin-right: 20px;
+    text-align: justify;
+    background-color: gray;
+    padding: 10px;
+    padding-left: 20px;
+    border-left:  5px solid orange;
+    
+}
+
 
